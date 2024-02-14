@@ -1,5 +1,5 @@
 function fa1(){
-    window.location.href="url(https://github.com/kanishk1122/loginpage/)"
+    window.location.href="index.html"
 }
    setTimeout (function fa1(){
 
